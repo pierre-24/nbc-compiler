@@ -17,3 +17,11 @@ fp.cfg
 fp.dsk
 
 # End of https://www.gitignore.io/api/freepascal
+
+## Added by me:
+*.dcu
+*.rxe
+
+src/NXT/nbc
+nbc
+src/NXT/mkdata

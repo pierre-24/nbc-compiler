@@ -1,0 +1,8 @@
+{"version":1,"strings":[
+{"hash":85494371,"name":"p10build.msgerrblanks","sourcebytes":[69,120,112,114,101,115,115,105,111,110,32,104,97,115,32,98,108,97,110,107,115],"value":"Expression has blanks"},
+{"hash":252106814,"name":"p10build.msgmissingbrackets","sourcebytes":[77,105,115,115,105,110,103,32,98,114,97,99,107,101,116,115,32,105,110,32,101,120,112,114,101,115,115,105,111,110],"value":"Missing brackets in expression"},
+{"hash":265687018,"name":"p10build.msgparseerror","sourcebytes":[69,114,114,111,114,32,112,97,114,115,105,110,103,32,101,120,112,114,101,115,115,105,111,110,58],"value":"Error parsing expression:"},
+{"hash":201066083,"name":"p10build.msgnestings","sourcebytes":[69,120,112,114,101,115,115,105,111,110,32,99,111,110,116,97,105,110,115,32,116,111,111,32,109,97,110,121,32,110,101,115,116,105,110,103,115],"value":"Expression contains too many nestings"},
+{"hash":172922952,"name":"p10build.msgtoocomplex","sourcebytes":[69,120,112,114,101,115,115,105,111,110,32,105,115,32,116,111,111,32,99,111,109,112,108,101,120],"value":"Expression is too complex"},
+{"hash":39452050,"name":"p10build.msginternalerror","sourcebytes":[84,80,97,114,115,101,114,32,105,110,116,101,114,110,97,108,32,101,114,114,111,114],"value":"TParser internal error"}
+]}
