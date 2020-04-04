@@ -1,0 +1,19 @@
+
+# Created by https://www.gitignore.io/api/freepascal
+# Edit at https://www.gitignore.io/?templates=freepascal
+
+### FreePascal ###
+*.lps
+*.compiled
+*.[oa]
+*.ppu
+*.rst
+*.cgi
+*.exe
+*.log
+*.bak*
+fp.ini
+fp.cfg
+fp.dsk
+
+# End of https://www.gitignore.io/api/freepascal
