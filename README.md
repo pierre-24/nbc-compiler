@@ -13,7 +13,7 @@ Also, I'm not supporting **Windows** and **Mac** compilation at the moment (but 
 
 ## Compile that in Linux
 
-+ Check your package distribution for something that looks like `fpc` or `fp-compiler` and install it, or go to the page for the [latest version of the compiler](https://sourceforge.net/projects/freepascal/files/Linux/3.0.4/), download and install what corresponds to your distribution ;
++ Check your package distribution for something that looks like `fpc` and install it, or go to the page for the [latest version of the compiler](https://sourceforge.net/projects/freepascal/files/Linux/3.0.4/), download and install what corresponds to your distribution ;
 + Check your package distribution for something that looks like `libusb-dev` and install it ;
 + Clone this repository ;
 + Compile the compiler: `make all`. If everything goes well, there should be a `nbc` executable file in your folder.
