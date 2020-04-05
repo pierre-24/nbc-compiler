@@ -91,6 +91,6 @@ Syntax: nbc [options] filename [options]
 /path/to/nbc /path/to/input.nbc -O=/path/to/output.rxe
 ```
 
-The `-O=` part is only required if you wan to execute your program latter in a simulator, like [this one](http://schuelerlabor.informatik.rwth-aachen.de/roboter-simulator), I may plan a Linux port of that one, since [the code source is available](https://github.com/InfoSphereAC/RoboSim).
+The `-O=` part is only required if you wan to execute your program latter in a simulator, like [this one](http://schuelerlabor.informatik.rwth-aachen.de/roboter-simulator). **There is a port of their interpreter available [here](https://github.com/pierre-24/nxt-interpreter)**.
 
 Also note that right after the execution of this command, `echo $?` is either `0` if the compilation went well, `1` if it is not the case, so that should allow for some CI/testing procedure.
