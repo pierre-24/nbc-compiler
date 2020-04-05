@@ -1,4 +1,4 @@
-# NBC/NXT/NXC compiler
+# NBC/NXC to NXT compiler
 
 Adapted from [Bricxcc](https://sourceforge.net/projects/bricxcc/) by John Hansen (see <http://bricxcc.sourceforge.net/nbc/>).
 This is based on the latest available release, [1.2.1.r4](https://sourceforge.net/projects/bricxcc/files/NBC_NXC/NBC%20release%201.2.1%20r4/).
