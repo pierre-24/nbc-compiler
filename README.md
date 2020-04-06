@@ -13,6 +13,8 @@ Also, I'm not supporting **Windows** and **Mac** compilation at the moment (but 
 
 ## Compile that in Linux
 
+**Note**: on Uuntu, [there is also a `nbc` package](https://packages.ubuntu.com/xenial/electronics/nbc) if you prefer. The one in Fedora is a bit outdated, so this explain why I tried to compile it.
+
 + Check your package distribution for something that looks like `fpc` and install it, or go to the page for the [latest version of the compiler](https://sourceforge.net/projects/freepascal/files/Linux/3.0.4/), download and install what corresponds to your distribution ;
 + Check your package distribution for something that looks like `libusb-dev` and install it ;
 + Clone this repository ;
